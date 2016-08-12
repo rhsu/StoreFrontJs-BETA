@@ -17,3 +17,5 @@ To install basic app
 
    run the app:
      $ DEBUG=StoreFrontJs-BETA:* npm start
+
+Or nodemon ./bin/www (will require install nodemon: sudo npm install -g nodemon)
