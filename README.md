@@ -11,3 +11,11 @@ To install basic app
 
 1. Install NodeJs
 2. Run npm install
+
+  install dependencies:
+     $ cd StoreFrontJs-BETA/ && npm install
+
+   run the app:
+     $ DEBUG=StoreFrontJs-BETA:* npm start
+
+Or nodemon ./bin/www (will require install nodemon: sudo npm install -g nodemon)
